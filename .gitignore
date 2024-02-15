@@ -9,7 +9,7 @@
 # Ignore .terraform.lock.hcl file
 *.lock.hcl
 
-# Ignore .terraform.tfstate.backup file
+# Ignore terraform.tfstate.backup file
 terraform.tfstate.backup
 
 
